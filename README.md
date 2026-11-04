@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on customised software solutions.
-- 💬 Ask me about AI-Driven Data Analytics & User Assistance.
+- 🔭 I’m currently building customised reporting and assistant tools.
+- 💬 Ask me about AI-driven solutions, such as AI agents, RAG, knowledge graphs, semantic search, local LLMs and model evaluation (quality, latency and cost).
 
