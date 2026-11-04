@@ -9,4 +9,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently building customised reporting and assistant tools.
 - 🌱 I'm currently learning advanced AI agent design and orchestration.
 - 💬 Ask me about AI-driven solutions, such as AI agents, RAG, knowledge graphs, semantic search, local LLMs and model evaluation (quality, latency and efficiency).
-- ⚡ Fun fact: I'm rediscovering the thrill of programming with each AI agent I build.
+<!--
+- ⚡ Fun fact: I'm rekindling the thrill of software development with each AI agent I build.
+-->
